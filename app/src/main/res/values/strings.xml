@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ESET Sample Submission</string>
+    <string name="First">First Name</string>
+    <string name="Last">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="Case">Case Number</string>
+    <string name="send">Send</string>
+</resources>
